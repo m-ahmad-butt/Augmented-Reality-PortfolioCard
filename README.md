@@ -1,16 +1,9 @@
 # CardAR
 **An Augmented Reality portfolio application for Android devices**
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technical Specifications](#technical-specifications)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
+### Demo
+![Card](demo/cardAR.jpg)
+*Main interface with card scanning functionality*
 
 ## Overview
 **CardAR** is a card-based augmented reality application that brings physical cards to life through AR technology. By scanning specially designed cards with your Android device, users can experience interactive 3D content, animations, and immersive AR experiences. Built with Unity and AR Foundation, this application demonstrates the power of marker-based AR tracking.
@@ -98,10 +91,6 @@ cd "Augmented-Reality-Portfolio
 3. **Point your camera** at a CardAR marker card
 4. **Watch** as 3D content appears anchored to the card
 5. **Interact** with the AR content by touching the screen
-
-### Demo
-![Card](demo/cardAR.jpg)
-*Main interface with card scanning functionality*
 
 ## Contributing
 Contributions are welcome! Please follow these guidelines:
